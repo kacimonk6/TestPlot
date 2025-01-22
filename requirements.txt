@@ -1,7 +1,7 @@
 streamlit
 pandas
 streamlit-pandas
-numpy
+numpy<2
 matplotlib
 altair
 google-generativeai
